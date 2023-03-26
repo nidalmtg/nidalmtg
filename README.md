@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidalmtg&label=Profile%20views&color=0e75b6&style=flat" alt="nidalmtg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nidalmtg" alt="nidalmtg" /></a> </p>
-
 - 🌱 I’m currently learning **AWS services, especially CloudFormation**
 
 - 👯 I’m looking to collaborate on **various projects to learn and discover new things everyday**
